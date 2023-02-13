@@ -1,0 +1,8 @@
+.logoImg{
+
+}
+@media screen and (min-width:688){
+    .logoImg{
+       display: none;
+    }
+}
